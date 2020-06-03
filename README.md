@@ -1,44 +1,91 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  <img src=".github/logo.png" alt="Logo"><br /><br />
+  <img src=".github/pessoinhas.png" alt="Logo Image" height="200">
+</h1>
 
-## Available Scripts
+<h3 align="center">
+  Ecoleta - A maneira mais fácil de jogar fora o lixo
+</h3>
 
-In the project directory, you can run:
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/ecoleta?color=%2334CB79">
 
-### `yarn start`
+  <a href="https://www.linkedin.com/in/eliasgcf/">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-elias%20gabriel-%2334CB79">
+  </a>
+  
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/ecoleta?color=%2334CB79">
+  
+  <a href="https://github.com/EliasGcf/ecoleta/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/ecoleta?color=%2334CB79">
+  </a>
+  
+  <a href="https://github.com/EliasGcf/ecoleta/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/ecoleta?color=%2334CB79">
+  </a>
+  
+  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/ecoleta?color=%2334CB79">
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<p align="center">
+  <a href="#recycle-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
+</p>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<!-- <p id="insomniaButton" align="center">
+  <a href="https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2FEliasGcf%2Fbe-the-hero%2Fmaster%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p> -->
 
-### `yarn test`
+<img alt="Layout" src=".github/mockup.png">
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## :recycle: About the project
 
-### `yarn build`
+Soon
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Technologies
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Soon
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💻 Getting started
 
-### `yarn eject`
+Soon
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🤔 How to contribute
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Make a fork of this repository**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+# Fork using GitHub official command line
+# If you don't have the GitHub CLI, use the web site to do that.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+$ gh repo fork EliasGcf/ecoleta
+```
 
-## Learn More
+**Follow the steps below**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Clone your fork
+$ git clone your-fork-url && cd ecoleta
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Create a branch with your feature
+$ git checkout -b my-feature
+
+# Make the commit with your changes
+$ git commit -m 'feat: My new feature'
+
+# Send the code to your remote branch
+$ git push origin my-feature
+```
+
+After your pull request is merged, you can delete your branch
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with 💜&nbsp; by Elias Gabriel 👋 [See my linkedin](https://www.linkedin.com/in/eliasgcf/)
