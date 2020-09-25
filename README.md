@@ -4,6 +4,7 @@
 </h1>
 
 <h3 align="center">
+  
   Ecoleta - A maneira mais fácil de jogar fora o lixo
 </h3>
 <p align="center">
